@@ -14,6 +14,8 @@
  </ul>
 </h5>
 
+FRONT-END VIEW:
+
 <h3> HOME-PAGE </h3>
 
 ![home](https://user-images.githubusercontent.com/96586030/225401466-397e9c15-1df2-44b8-b5e6-f68ebd01a206.png)
@@ -30,6 +32,7 @@
 
 ![register](https://user-images.githubusercontent.com/96586030/225401911-63670474-f298-4466-bcbd-996a8839a247.png)
 
+<br>
 
 
 
