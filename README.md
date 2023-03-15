@@ -1,7 +1,6 @@
 <h1>CirlceUp</h1>
 
-<h3>Desc: CircleUp is undevelopment mern stack application, It's a Social media API application which allows users following features:
- <br>
+<h3>Desc: CircleUp is undevelopment mern stack application, It's a Social media API application which allows users following features:<br><br>
  
  <ul>
    <li> USER AUTHENTICATION </li>
